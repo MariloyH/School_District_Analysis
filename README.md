@@ -7,7 +7,7 @@ The analysis should contain the following:
   
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 First, we neutralize the THS 9th grade results in Math and Reading in order to begin tne analysis. I did it replacing the grades with NaN. 
-!(SchoolDistrictResults/<img width="706" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
+<img width="706" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
 
 How is the district summary affected?
