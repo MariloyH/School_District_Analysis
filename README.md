@@ -10,18 +10,25 @@ First, we neutralize the THS 9th grade results in Math and Reading in order to b
 
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
-From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how.
-![https://github.com/MariloyH/School_District_Analysis/blob/main/SchoolDistrictResults/School_Summary_THSreplaced.png]
 
-How is the district summary affected?
+From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how 
+
+<img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
+
+How is the district summary affected? 
+  In particular, the district summary was not affected. The Average Math Score (AMS) and Avergage Reading Score (ARS) reamins equal, the same as % Passing Math an % Passing Reading students. The % Overall Passing decreased in 0.2%.
+
 How is the school summary affected
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
+
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
