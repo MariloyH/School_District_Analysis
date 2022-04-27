@@ -11,7 +11,7 @@ First, we neutralize the THS 9th grade results in Math and Reading in order to b
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
 From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how.
-!(https://github.com/MariloyH/School_District_Analysis/blob/main/SchoolDistrictResults/School_Summary_THSreplaced.png)
+![https://github.com/MariloyH/School_District_Analysis/blob/main/SchoolDistrictResults/School_Summary_THSreplaced.png]
 
 How is the district summary affected?
 How is the school summary affected
