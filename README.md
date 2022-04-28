@@ -20,11 +20,15 @@ From these new data, I repeated the analysis of the schools performance in readi
 ### How is the district summary affected? 
   In particular, the district summary was little affected. The **Avergage Reading Score** remains equal, but the **Average Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%.  So, in this particular case, the not considered scores were not relevant.
   
+ ![image](https://user-images.githubusercontent.com/102195803/165667164-85e73ebc-1776-4089-a3ba-fe3a5d1d38bf.png)  
+ #### New District Summary 
   <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 ### How is the school summary affected
 in this case, the School Summary was affected because all the permormance rates decreased, not to much, but they did it. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited thar Thomas High School remains among the the top 5 school of the district. 
 
+![image](https://user-images.githubusercontent.com/102195803/165667390-ed9aae61-c9ed-40ab-b589-08c287957bc1.png)
+#### New School Summay
 <img width="600" alt="SchoolSummary_without 9th grade THS" src="https://user-images.githubusercontent.com/102195803/165654939-94a0bd88-e63d-42bc-9838-1aaa041b3e84.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -34,7 +38,6 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 ### How does replacing the ninth-grade scores affect the following:
 ### -Math and reading scores by grade
 As the atypical results were in 9th grade, it was the only affected. The rest of the grades remains unchanged.
-
 ### Average Math Score
 <img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png">
 
