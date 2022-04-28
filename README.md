@@ -28,12 +28,12 @@ From these new data, I repeated the analysis of the schools performance in Readi
   <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 ### How is the school summary affected
-In this case the Thomas High School results were not affected. Its an imperceptible decrease, so I considered not relevant for taking decisions. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited than Thomas High School remains among the the Top 5 Schools of the District. 
+In this case the Thomas High School results were little affected. Math & Reading Averages had an imperceptible decrease, but the Reading Passing Percentages decreased 0.3%. But, although 9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited Thomas High School remains among the the Top 5 Schools of the District. 
 
+*New School Summary*
 <img width="535" alt="SchoolSummary_DF" src="https://user-images.githubusercontent.com/102195803/165669852-29b58565-69a4-40d1-a165-abe670ca55d1.png">
 
- *New School Summary*
-<img width="600" alt="SchoolSummary_without 9th grade THS" src="https://user-images.githubusercontent.com/102195803/165654939-94a0bd88-e63d-42bc-9838-1aaa041b3e84.png">
+ <img width="600" alt="SchoolSummary_without 9th grade THS" src="https://user-images.githubusercontent.com/102195803/165654939-94a0bd88-e63d-42bc-9838-1aaa041b3e84.png">
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 It did not affect, because the THS remains en the second place betweeen the Top 5 Schools of the district. The average remains almmost the same. 
@@ -42,14 +42,17 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 
 ### How does replacing the ninth-grade scores affect the following:
 ### -Math and Reading Scores by Grade
-<img width="818" alt="GradeSeries" src="https://user-images.githubusercontent.com/102195803/165669949-74176c0d-8a29-490a-862b-0cf23962761c.png">
 As the only grade modified was the 9th of the THS, it was the only affected. The average for Math and Reading scores of the other grades did not have changes.
+
+<img width="818" alt="GradeSeries" src="https://user-images.githubusercontent.com/102195803/165669949-74176c0d-8a29-490a-862b-0cf23962761c.png">
+
 ### Average Math Score
-The Average Math Score was ucnhanged. 
+
+The Average Math Score did not change. 
 <img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png"> 
 
 ### Average Reading Score 
-The Average Reading Score decrease a 0.06% 
+The change in this Score was imperceptible, it decreased a 0.06% 
 <img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
 
 ### -Scores by school spending 
