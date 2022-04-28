@@ -1,6 +1,6 @@
 # School_District_Analysis
-BootCamp Week4 Working with Pandas
-The analysis should contain the following:
+Challenge Week 4. Working with Pandas & Jupiter notebook.
+
 ## Overview of the school district analysis
   Previously, we supported the Data Analytics team in a study about the results of schools in the area in the Proficiency Standard Test for math and reading, based on the type of school, its population and its budget, in order to help the School Board in making decisions.
   Subsequently, based on a report of academic dishonesty in the 9th grade of the Thomas High School, we have been asked to repeat the previous analysis and determine how much the previous results are affected if we discard the results in question.
@@ -9,19 +9,19 @@ The analysis should contain the following:
 For this proyect, we take the data from  two data files: Students_complete.csv and Schools_complete.csv.  I used Pandas DataFrames 
 
 First, I discard the THS 9th grade results in Math and Reading in order to begin tne analysis. I did it replacing the grades with NaN.
-
-![Replacing invalid scores](https://user-images.githubusercontent.com/102195803/165666854-5a75e362-f04f-4b1f-a683-6031516cdfd8.png)
+<img width="997" alt="ReplaceScores" src="https://user-images.githubusercontent.com/102195803/165669021-008c9106-07b4-40f0-9f9c-63aa19487019.png">
 
 ### Resulting DataFrame 
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
-From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how. 
+From these new data, I repeated the analysis of the schools performance in reading and math to determine how the data previously replaced affects the past results.   
 
 ### How is the district summary affected? 
-  In particular, the district summary was little affected. The **Avergage Reading Score** remains equal, but the **Average Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%.  So, in this particular case, the not considered scores were not relevant.
-  
- ![image](https://user-images.githubusercontent.com/102195803/165667164-85e73ebc-1776-4089-a3ba-fe3a5d1d38bf.png)  
+  The District summary was little affected. The **Avergage Reading Score** remains equal, but the **Average Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%. 
+ 
  #### New District Summary 
+<img width="535" alt="SchoolSummary_DF" src="https://user-images.githubusercontent.com/102195803/165669595-3f81f1f8-2e42-4ed3-a606-c1e03bc5b96e.png"> 
+
   <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 ### How is the school summary affected
