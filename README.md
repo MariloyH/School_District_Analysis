@@ -11,7 +11,6 @@ First, I discard the THS 9th grade results in Math and Reading in order to begin
 
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
-
 From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how. 
 
 ### How is the district summary affected? 
@@ -32,6 +31,11 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 ### -Math and reading scores by grade
 As the atypical results were in 9th grade, it was the only affected. The rest of the grades remains unchanged.
 
+<img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png">
+
+<img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
+
+
 ### -Scores by school spending 
 In this case, the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
 <img width="870" alt="Spending RangesB" src="https://user-images.githubusercontent.com/102195803/165650122-73bb7111-3a2b-4e18-b03e-587a1717f1b6.png">
@@ -41,14 +45,12 @@ Just like the previous one, the Score by School size remain unchanged.
 <img width="792" alt="Score by School Size" src="https://user-images.githubusercontent.com/102195803/165650085-e2b88279-b7fa-47a1-a7b4-c3bcc13b31ef.png">
 
 ### -Scores by school type.
-This data remain unchanged. It ac
+This data remain unchanged.
 <img width="716" alt="SchoolTypeB" src="https://user-images.githubusercontent.com/102195803/165650160-e5c8bfc5-7ea3-492d-a764-b377f3dab286.png">
 
 ##Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-A case as this, when one grade complete is isoleted, could affect the performance of its school. A small school could be serious affected for something like this. But in the case, the Thomas High School is a medium size that was one of the top 5 schools in the district, and the replace scores did not affected so much. The **Average Math Score**, **Average Reading Scores**, **% Passing math** and % Passing ts percentages were a little affected. 
-
-<img width="660" alt="Original_DistrictSummary" src="https://user-images.githubusercontent.com/102195803/165601474-5047450c-e8a1-4f91-ab07-f2da45127d09.png">
+A case as this, when one grade complete is isoleted, could affect the performance of its school. A small school could be serious affected for something like this. But in the case, the Thomas High School is a medium size that was one of the top 5 schools in the district, and the replace scores did not affected so much. The **Average Math Score**, **Average Reading Scores**, **% Passing math** and **% Passing Reading** were a little affected. 
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
