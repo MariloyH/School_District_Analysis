@@ -40,17 +40,17 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 <img width="818" alt="GradeSeries" src="https://user-images.githubusercontent.com/102195803/165669949-74176c0d-8a29-490a-862b-0cf23962761c.png">
 As the only grade modified was the 9th of the THS, it was the only affected. The average for Math and Reading scores of the other grades did not have changes.
 ### Average Math Score
-<img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png">
+<img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png"> 
 
 ### Average Reading Score 
 <img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
 
 ### -Scores by school spending 
-For the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
+As in the other cases, this table generally does not change substantially: THS continues in the same Spending Budget per Student range because the school's budget and the number of students remain the same, but the averages and percentages are modified. in the same way as in the previous cases.
 <img width="870" alt="Spending RangesB" src="https://user-images.githubusercontent.com/102195803/165650122-73bb7111-3a2b-4e18-b03e-587a1717f1b6.png">
 
 ### -Scores by school size
-Just like the previous one, the Score by School size remain unchanged.
+Just like the previous one, the Score by School Size remains unchanged.
 <img width="792" alt="Score by School Size" src="https://user-images.githubusercontent.com/102195803/165650085-e2b88279-b7fa-47a1-a7b4-c3bcc13b31ef.png">
 
 ### -Scores by school type.
