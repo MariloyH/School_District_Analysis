@@ -31,10 +31,11 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 ### -Math and reading scores by grade
 As the atypical results were in 9th grade, it was the only affected. The rest of the grades remains unchanged.
 
+### Average Math Score
 <img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png">
 
+### Average Reading Score 
 <img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
-
 
 ### -Scores by school spending 
 In this case, the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
