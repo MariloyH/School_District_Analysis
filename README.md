@@ -20,8 +20,7 @@ First, I discard the THS 9th grade results in Math and Reading in order to begin
 From these new data, I repeated the analysis of the schools performance in Reading and Math to determine how the data previously replaced affects the past results.   
 
 ### How is the district summary affected? 
-  In general, The District Summary was little affected. The **Avergage Reading Score** remains equal, but the **Average Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%.
- 
+  In general, The District Summary was little affected. The **Avergage Reading Score** and **Average Math Score** are  the same, the **% Passing Math**, **Passing Reading** and **% Overall Passing** decreased less tha 0.2%.
   
 <img width="551" alt="DistrictSummary_DF" src="https://user-images.githubusercontent.com/102195803/165670662-25160a3b-539d-4dde-899b-97954d52705a.png">
 
@@ -38,6 +37,7 @@ In this case the Thomas High School results were little affected. Math & Reading
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 It did not affect, because the THS remains en the second place betweeen the Top 5 Schools of the district. The average remains almmost the same. 
+
 *Top 5 Schools of the Area*
 <img width="1008" alt="Top5_schools_comparison" src="https://user-images.githubusercontent.com/102195803/165642154-68c57b71-4411-456b-ae93-708ee69299c1.png">
 
@@ -48,7 +48,6 @@ As the only grade modified was the 9th of the THS, it was the only affected. The
 <img width="818" alt="GradeSeries" src="https://user-images.githubusercontent.com/102195803/165669949-74176c0d-8a29-490a-862b-0cf23962761c.png">
 
 ### Average Math Score
-
 The Average Math Score did not change. 
 <img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png"> 
 
@@ -57,7 +56,7 @@ The change in this Score was imperceptible, it decreased a 0.06%
 <img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
 
 ### -Scores by school spending 
-As in the other cases, this table generally does not change substantially: THS continues in the same Spending Budget per Student range because the school's budget and the number of students remain the same, but the averages and percentages are modified. in the same way as in the previous cases.
+It observe that this frame was modified: All de results were significant increased:  The **Average Math Score**, **Average Reading Scores**, **% Passing Math**, **% Passing Reading**  and **%Overall passing**. THS is in the same range because its Spending Budget per Student didn´t change. 
 <img width="870" alt="Spending RangesB" src="https://user-images.githubusercontent.com/102195803/165650122-73bb7111-3a2b-4e18-b03e-587a1717f1b6.png">
 
 ### -Scores by school size
@@ -69,6 +68,10 @@ This data remain unchanged.
 <img width="716" alt="SchoolTypeB" src="https://user-images.githubusercontent.com/102195803/165650160-e5c8bfc5-7ea3-492d-a764-b377f3dab286.png">
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-A case as this, when one grade complete is isoleted, could affect the performance of its school. A small school could be serious affected for something like this. But in the case, the Thomas High School is a medium size that was one of the top 5 schools in the district, and the replace scores did not affected so much. The **Average Math Score**, **Average Reading Scores**, **% Passing Math**, **% Passing Reading**  and **%Overall passing*. 
+I suposed that after 9th grade of the THS was discard the change would be more significant. Not considered the 28% of the THS population its very important, but, in the paper, it didn´t affect so much. In fact, the  **% Passing Math** and **% Passing Reading**  showed an important decrease.
+I can appreciate changes in  4 analysis: 
+  - School Summary Analysis
+  - Math and Reading Scores by grade
+  - Average Reading Score
+  - Scores by School Spending
 
