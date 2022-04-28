@@ -11,27 +11,41 @@ First, we neutralize the THS 9th grade results in Math and Reading in order to b
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
 
-From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how 
+From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how. 
 
 
 <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 
-How is the district summary affected? 
-  In particular, the district summary was not affected. The Average Math Score (AMS) and Avergage Reading Score (ARS) reamins equal, the same as % Passing Math an % Passing Reading students. The % Overall Passing decreased in 0.2%.
+### How is the district summary affected? 
+  In particular, the district summary was little affected. The **Avergage Reading Score** remains equal, but the **Avergae Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%.  So, in this particular case, the not considered scores were not relevant.
 
-How is the school summary affected
+### How is the school summary affected
+in this case, the School Summary was affected because all the permormance rates decreased, not to much, but they did it. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited thar Thomas High School remains among the the top 5 school of the district. 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+It did not affect, because the THS remains en the second place betweeen the Top 5 Schools of the district. The average remains almmost the same. 
+<img width="1008" alt="Top5_schools_comparison" src="https://user-images.githubusercontent.com/102195803/165642154-68c57b71-4411-456b-ae93-708ee69299c1.png">
 How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+### Math and reading scores by grade
+In this case, the only grade affected is the 9th, which was the grade replaced.. The rest of the grades remains unchanged.
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Scores by school spending 
+In this case, the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
+<img width="870" alt="Spending RangesB" src="https://user-images.githubusercontent.com/102195803/165650122-73bb7111-3a2b-4e18-b03e-587a1717f1b6.png">
+
+### Scores by school size
+Just like the previous one, the Score by School size remain unchanged.
+<img width="792" alt="SchoolSizeB" src="https://user-images.githubusercontent.com/102195803/165650085-e2b88279-b7fa-47a1-a7b4-c3bcc13b31ef.png">
+
+### Scores by school type.
+This data remain unchanged. It ac
+<img width="716" alt="SchoolTypeB" src="https://user-images.githubusercontent.com/102195803/165650160-e5c8bfc5-7ea3-492d-a764-b377f3dab286.png">
+
+##Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+A case as this, when one grade complete is isoleted, could affect the performance of all the school. A small school could be serious affected for something like this. But in the case of the Thomas High School that was one of the top 5 schools in the district, this case did no affected so much. Only the Average Math Score, Average Reading Scores and its percentages were a little affected. 
+
 <img width="660" alt="Original_DistrictSummary" src="https://user-images.githubusercontent.com/102195803/165601474-5047450c-e8a1-4f91-ab07-f2da45127d09.png">
-<img width="660" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (7 points)
