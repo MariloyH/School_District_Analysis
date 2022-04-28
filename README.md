@@ -25,7 +25,7 @@ From these new data, I repeated the analysis of the schools performance in readi
   <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 ### How is the school summary affected
-in this case, the School Summary was affected because all the permormance rates decreased, not to much, but they did it. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited thar Thomas High School remains among the the top 5 school of the district. 
+in this case, the School Summary was affected because beause  decreased, not to much, but they did it. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited thar Thomas High School remains among the the top 5 school of the district. 
 
 <img width="535" alt="SchoolSummary_DF" src="https://user-images.githubusercontent.com/102195803/165669852-29b58565-69a4-40d1-a165-abe670ca55d1.png">
 #### New School Summay
