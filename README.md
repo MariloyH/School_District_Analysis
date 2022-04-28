@@ -22,9 +22,10 @@ From these new data, I repeated the analysis of the schools performance in Readi
 ### How is the district summary affected? 
   In general, The District Summary was little affected. The **Avergage Reading Score** remains equal, but the **Average Math Score**, the **% Passing Math** an % **Passing Reading** and the **% Overall Passing** decreased less tha 0.2%.
  
- *New District Summary* 
+  
 <img width="551" alt="DistrictSummary_DF" src="https://user-images.githubusercontent.com/102195803/165670662-25160a3b-539d-4dde-899b-97954d52705a.png">
 
+*New District Summary*
   <img width="560" alt="District_Summary_THSreplaced" src="https://user-images.githubusercontent.com/102195803/165587841-336755cd-1340-4e93-a609-9e3e7878f22f.png">
 
 ### How is the school summary affected
