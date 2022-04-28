@@ -27,7 +27,7 @@ From these new data, I repeated the analysis of the schools performance in readi
 ### How is the school summary affected
 in this case, the School Summary was affected because all the permormance rates decreased, not to much, but they did it. Althougt  9th grade results oh the THS were not considered, the performance of the 10th-12th grades are outstanding, so it permited thar Thomas High School remains among the the top 5 school of the district. 
 
-![image](https://user-images.githubusercontent.com/102195803/165667390-ed9aae61-c9ed-40ab-b589-08c287957bc1.png)
+<img width="535" alt="SchoolSummary_DF" src="https://user-images.githubusercontent.com/102195803/165669852-29b58565-69a4-40d1-a165-abe670ca55d1.png">
 #### New School Summay
 <img width="600" alt="SchoolSummary_without 9th grade THS" src="https://user-images.githubusercontent.com/102195803/165654939-94a0bd88-e63d-42bc-9838-1aaa041b3e84.png">
 
@@ -37,7 +37,8 @@ It did not affect, because the THS remains en the second place betweeen the Top 
 
 ### How does replacing the ninth-grade scores affect the following:
 ### -Math and reading scores by grade
-As the atypical results were in 9th grade, it was the only affected. The rest of the grades remains unchanged.
+<img width="818" alt="GradeSeries" src="https://user-images.githubusercontent.com/102195803/165669949-74176c0d-8a29-490a-862b-0cf23962761c.png">
+As the only grade modified was the 9th of the THS, it was the only affected. The average for Math and Reading scores of the other grades did not have changes.
 ### Average Math Score
 <img width="313" alt="AverageMathScoresB" src="https://user-images.githubusercontent.com/102195803/165659302-c93cb0d8-019f-48b3-a51b-1e0dcb7165c2.png">
 
@@ -45,7 +46,7 @@ As the atypical results were in 9th grade, it was the only affected. The rest of
 <img width="329" alt="AverageReadingbyGradeB" src="https://user-images.githubusercontent.com/102195803/165659327-efbaf6dd-0552-4e2e-afb4-86bb6e3fa183.png">
 
 ### -Scores by school spending 
-In this case, the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
+For the Average Reading Score was almost the same, it only increased 0.05%. The other performing values decreased. The budget per student remains equal, because it only depends of the Budget per School and the Total Students number per school. 
 <img width="870" alt="Spending RangesB" src="https://user-images.githubusercontent.com/102195803/165650122-73bb7111-3a2b-4e18-b03e-587a1717f1b6.png">
 
 ### -Scores by school size
