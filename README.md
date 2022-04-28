@@ -6,9 +6,13 @@ The analysis should contain the following:
   Subsequently, based on a report of academic dishonesty in the 9th grade of the Thomas High School, we have been asked to repeat the previous analysis and determine how much the previous results are affected if we discard the results in question.
   
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions.
+For this proyect, we take the data from  two data files: Students_complete.csv and Schools_complete.csv.  I used Pandas DataFrames 
+
 First, I discard the THS 9th grade results in Math and Reading in order to begin tne analysis. I did it replacing the grades with NaN.
 
+![Replacing invalid scores](https://user-images.githubusercontent.com/102195803/165666854-5a75e362-f04f-4b1f-a683-6031516cdfd8.png)
+
+### Resulting DataFrame 
 <img width="500" alt="THS 9th_replacedscores" src="https://user-images.githubusercontent.com/102195803/165583518-e8c2e7a7-3d02-4dfe-8225-b7fc7a5f495f.png">
 
 From these new data, I repeated the analysis of the schools performance in reading and math to determine how the results previously found were affected and how. 
