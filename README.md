@@ -68,8 +68,7 @@ This data remain unchanged.
 <img width="716" alt="SchoolTypeB" src="https://user-images.githubusercontent.com/102195803/165650160-e5c8bfc5-7ea3-492d-a764-b377f3dab286.png">
 
 ## Summary: 
-I suposed that after 9th grade of the THS was discard the change would be more significant. Not considered the 28% of the THS population its very important, but, in the paper, it didn´t affect so much. In fact, the  **% Passing Math** and **% Passing Reading**  showed an important decrease.
-I can appreciate changes in  4 analysis: 
+I suposed that after 9th grade of the THS was discard the change would be more significant. Not considered the 28% of the THS population its very important, but, in the paper, it didn´t affect so much. In fact, the general evaluation of the School was unchanged, only  **% Passing Math** and **% Passing Reading**  showed an important decrease. In this order, it has relevant changes in  4 analysis:
   - School Summary Analysis
   - Math and Reading Scores by grade
   - Average Reading Score
